@@ -1,0 +1,538 @@
+{
+ "data": "2026-11-06",
+ "itens": [
+  {
+   "slot": "convite",
+   "titulo": "2026-11-06 09:00 convite",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "09:00",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T09:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/convite.png"
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T09:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/convite.png"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "slot": "manha",
+   "titulo": "2026-11-06 09:30 O look de corpo inteiro: 37,50 €.",
+   "tipo": "carrossel",
+   "pecas": [
+    "FEI-0123-cru",
+    "FEI-0004-creme"
+   ],
+   "hora": "09:30",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T09:30:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "post",
+       "shouldShareToFeed": true
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/manha-01.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/manha-02.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/manha-03.png"
+       }
+      }
+     ],
+     "text": "Uma cor só, da cabeça aos pés, para estrear no fim de semana.\n\nO conjunto de malha cru com brilhantes soltos, camisola e calças largas, a 25 €, e as botas baixas creme com pelo a 12,50 €: o look todo por 37,50 €.\n\nManda mensagem e guardamos para ti.\n#feirao #lookdodia #sextafeira #modaoutono #baguimdomonte"
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T09:30:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "post"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/manha-01.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/manha-02.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/manha-03.png"
+       }
+      }
+     ],
+     "text": "Uma cor só, da cabeça aos pés, para estrear no fim de semana.\n\nO conjunto de malha cru com brilhantes soltos, camisola e calças largas, a 25 €, e as botas baixas creme com pelo a 12,50 €: o look todo por 37,50 €.\n\nManda mensagem e guardamos para ti.\n#feirao #lookdodia #sextafeira #modaoutono #baguimdomonte"
+    }
+   }
+  },
+  {
+   "slot": "anuncio-manha",
+   "titulo": "2026-11-06 09:31 anuncio-manha",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "09:31",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T09:31:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/anuncio-manha.png"
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T09:31:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/anuncio-manha.png"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "slot": "meio-dia",
+   "titulo": "2026-11-06 12:00 Adivinha o preço.",
+   "tipo": "reel",
+   "pecas": [
+    "FEI-0101-vermelho-azul-escuro-sortido",
+    "FEI-0103-vermelho-pai-natal"
+   ],
+   "hora": "12:00",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T12:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "reel",
+       "shouldShareToFeed": true
+      }
+     },
+     "assets": [
+      {
+       "video": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/meio-dia.mp4",
+        "metadata": {
+         "thumbnailOffset": 0
+        }
+       }
+      }
+     ],
+     "text": "Hoje há jogo, e quem acerta já sabe o que põe no sapatinho.\n\nAdivinha o preço dos boxers de Natal: os estampados, para eles, e os do Pai Natal, para os pequenos. Diz nos comentários antes de a resposta aparecer.\n\nManda mensagem e guardamos para ti.\n#feirao #adivinhaopreco #jogo #natal #aguassantas"
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T12:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "post"
+      }
+     },
+     "assets": [
+      {
+       "video": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/meio-dia.mp4",
+        "metadata": {
+         "title": "Adivinha o preço."
+        }
+       }
+      }
+     ],
+     "text": "Hoje há jogo, e quem acerta já sabe o que põe no sapatinho.\n\nAdivinha o preço dos boxers de Natal: os estampados, para eles, e os do Pai Natal, para os pequenos. Diz nos comentários antes de a resposta aparecer.\n\nManda mensagem e guardamos para ti.\n#feirao #adivinhaopreco #jogo #natal #aguassantas"
+    }
+   }
+  },
+  {
+   "slot": "anuncio-meio-dia",
+   "titulo": "2026-11-06 12:01 anuncio-meio-dia",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "12:01",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T12:01:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "video": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/anuncio-meio-dia.mp4",
+        "metadata": {
+         "thumbnailOffset": 0
+        }
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T12:01:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "video": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/anuncio-meio-dia.mp4"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "slot": "tarde",
+   "titulo": "2026-11-06 15:00 O talão: 37,50 €.",
+   "tipo": "reel",
+   "pecas": [
+    "FEI-0123-cru",
+    "FEI-0004-creme"
+   ],
+   "hora": "15:00",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T15:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "reel",
+       "shouldShareToFeed": true
+      }
+     },
+     "assets": [
+      {
+       "video": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/tarde.mp4",
+        "metadata": {
+         "thumbnailOffset": 0
+        }
+       }
+      }
+     ],
+     "text": "O talão não mente: o look desta manhã, peça a peça.\n\nConjunto de malha 25 € e botas de pelo 12,50 €. Total: 37,50 €.\n\nManda mensagem e guardamos para ti.\n#feirao #otalao #lookdodia #modaoutono #baguimdomonte"
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T15:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "post"
+      }
+     },
+     "assets": [
+      {
+       "video": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/tarde.mp4",
+        "metadata": {
+         "title": "O talão: 37,50 €."
+        }
+       }
+      }
+     ],
+     "text": "O talão não mente: o look desta manhã, peça a peça.\n\nConjunto de malha 25 € e botas de pelo 12,50 €. Total: 37,50 €.\n\nManda mensagem e guardamos para ti.\n#feirao #otalao #lookdodia #modaoutono #baguimdomonte"
+    }
+   }
+  },
+  {
+   "slot": "anuncio-tarde",
+   "titulo": "2026-11-06 15:01 anuncio-tarde",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "15:01",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T15:01:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "video": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/anuncio-tarde.mp4",
+        "metadata": {
+         "thumbnailOffset": 0
+        }
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T15:01:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "video": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/anuncio-tarde.mp4"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "slot": "story-19",
+   "titulo": "2026-11-06 19:00 story-19",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "19:00",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T19:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/story-19.png"
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T19:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/story-19.png"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "slot": "story-20",
+   "titulo": "2026-11-06 20:00 story-20",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "20:00",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T20:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/story-20.png"
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T20:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/story-20.png"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "slot": "story-21",
+   "titulo": "2026-11-06 21:00 story-21",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "21:00",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T21:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/story-21.png"
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-06T21:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-06/story-21.png"
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}
