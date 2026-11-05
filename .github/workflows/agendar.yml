@@ -1,0 +1,49 @@
+name: Agendar o dia seguinte
+
+# 21h10 em Lisboa, no inverno e no verão, com repetições porque o GitHub atrasa os horários; o script confere a hora de
+# Lisboa e nunca agenda duas vezes. Só agenda dias que o Gonçalo aprovou (os que estão em fila/).
+on:
+  schedule:
+    - cron: '10 20 * * *'
+    - cron: '10 21 * * *'
+    - cron: '40 21 * * *'
+    - cron: '10 22 * * *'
+    - cron: '10 23 * * *'
+  workflow_dispatch:
+    inputs:
+      data:
+        description: 'Dia a agendar (AAAA-MM-DD); vazio é amanhã'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: agendar
+  cancel-in-progress: false
+
+jobs:
+  agendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4.3.0
+        with:
+          sparse-checkout: |
+            fila
+            nuvem
+      - name: Agendar
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          DATA: ${{ inputs.data }}
+        run: python3 nuvem/agendar_fila.py "$DATA"
+      - name: Guardar o registo
+        if: always()
+        run: |
+          git config user.name 'Goncalo Freitas'
+          git config user.email 'lojafeirao@users.noreply.github.com'
+          git add fila/*.feito.json 2>/dev/null || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -qm "Agendado na nuvem: $(date -u +%F)"
+          git pull -q --rebase origin main
+          git push -q origin main
