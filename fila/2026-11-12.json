@@ -1,0 +1,317 @@
+{
+ "data": "2026-11-12",
+ "itens": [
+  {
+   "slot": "manha",
+   "titulo": "2026-11-12 09:30 O look de corpo inteiro: 81,40 €.",
+   "tipo": "carrossel",
+   "pecas": [
+    "FEI-0140-champanhe",
+    "FEI-0125-cru-preto",
+    "FEI-0144-castanho",
+    "FEI-0151-bege-castanho"
+   ],
+   "hora": "09:30",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T09:30:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "post",
+       "shouldShareToFeed": true
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-01.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-02.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-03.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-04.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-05.png"
+       }
+      }
+     ],
+     "text": "Um casacão comprido aquece até aos joelhos e, com a gola de pelo, ainda serve para as festas.\n\nO casacão acolchoado champanhe com gola de pelo custa 39 €. A camisola cru com seis corações felpudos, 12,50 €. A calça mágica castanha, 15 €. Os ténis com flores de tecido, 14,90 €. O look todo fica em 81,40 €.\n\nManda-nos mensagem e guardamos para ti.\n\nÁguas Santas: Rua Dom Afonso Henriques, 3350\nBaguim do Monte: Rua Estrelas de Baguim, 663\nSegunda a sexta das 9h às 19h, sábado das 9h às 12h30.\n\n#feirao #lookdodia #natal #modainverno #aguassantas"
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T09:30:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "post"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-01.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-02.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-03.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-04.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/manha-05.png"
+       }
+      }
+     ],
+     "text": "Um casacão comprido aquece até aos joelhos e, com a gola de pelo, ainda serve para as festas.\n\nO casacão acolchoado champanhe com gola de pelo custa 39 €. A camisola cru com seis corações felpudos, 12,50 €. A calça mágica castanha, 15 €. Os ténis com flores de tecido, 14,90 €. O look todo fica em 81,40 €.\n\nManda-nos mensagem e guardamos para ti.\n\nÁguas Santas: Rua Dom Afonso Henriques, 3350\nBaguim do Monte: Rua Estrelas de Baguim, 663\nSegunda a sexta das 9h às 19h, sábado das 9h às 12h30.\n\n#feirao #lookdodia #natal #modainverno #aguassantas"
+    }
+   }
+  },
+  {
+   "slot": "anuncio-manha",
+   "titulo": "2026-11-12 09:31 anuncio-manha",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "09:31",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T09:31:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/anuncio-manha.png"
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T09:31:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/anuncio-manha.png"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "slot": "tarde",
+   "titulo": "2026-11-12 15:00 Isto ou aquilo? Dourados ou prateados.",
+   "tipo": "carrossel",
+   "pecas": [
+    "FEI-0150-dourado",
+    "FEI-0150-prateado"
+   ],
+   "hora": "15:00",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T15:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "post",
+       "shouldShareToFeed": true
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/tarde-01.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/tarde-02.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/tarde-03.png"
+       }
+      }
+     ],
+     "text": "Uns ténis de plataforma dão altura sem cansar os pés, e esta estrela-do-mar faz o resto.\n\nHá dourados e prateados, e cada par custa 14,90 €. Qual levavas? Comenta 1 ou 2.\n\nManda-nos mensagem e guardamos para ti.\n\nÁguas Santas: Rua Dom Afonso Henriques, 3350\nBaguim do Monte: Rua Estrelas de Baguim, 663\nSegunda a sexta das 9h às 19h, sábado das 9h às 12h30.\n\n#feirao #istoouaquilo #tenis #natal #baguimdomonte"
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T15:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "post"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/tarde-01.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/tarde-02.png"
+       }
+      },
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/tarde-03.png"
+       }
+      }
+     ],
+     "text": "Uns ténis de plataforma dão altura sem cansar os pés, e esta estrela-do-mar faz o resto.\n\nHá dourados e prateados, e cada par custa 14,90 €. Qual levavas? Comenta 1 ou 2.\n\nManda-nos mensagem e guardamos para ti.\n\nÁguas Santas: Rua Dom Afonso Henriques, 3350\nBaguim do Monte: Rua Estrelas de Baguim, 663\nSegunda a sexta das 9h às 19h, sábado das 9h às 12h30.\n\n#feirao #istoouaquilo #tenis #natal #baguimdomonte"
+    }
+   }
+  },
+  {
+   "slot": "anuncio-tarde",
+   "titulo": "2026-11-12 15:01 anuncio-tarde",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "15:01",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T15:01:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/anuncio-tarde.png"
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T15:01:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/anuncio-tarde.png"
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "slot": "pergunta",
+   "titulo": "2026-11-12 20:00 pergunta",
+   "tipo": "story",
+   "pecas": [],
+   "hora": "20:00",
+   "entradas": {
+    "instagram": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T20:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "instagram": {
+       "type": "story",
+       "shouldShareToFeed": false
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/pergunta.png"
+       }
+      }
+     ]
+    },
+    "facebook": {
+     "channelId": "",
+     "schedulingType": "automatic",
+     "mode": "customScheduled",
+     "dueAt": "2026-11-12T20:00:00.000Z",
+     "needsApproval": false,
+     "metadata": {
+      "facebook": {
+       "type": "story"
+      }
+     },
+     "assets": [
+      {
+       "image": {
+        "url": "https://raw.githubusercontent.com/lojafeirao/feirao-imagens/main/d/2026-11-12/pergunta.png"
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}
